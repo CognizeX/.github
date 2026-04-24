@@ -15,15 +15,20 @@
 
 We combine **AI innovation and modern software engineering** to solve complex real-world problems.
 
+## Research Domain & Projects
+
+> `Pytorch Geomatry`, `Pysimverse`, `NLTK`/`BNLP` & `Selenium`.
+
+> Bangla Text to Speech (tts) and Speech to Text(stt) recognition system.
+
+
 ## Our Services
 
--  Scalable cost control & Waste minimization
--  Algorithm Development and Optimization
--  Build Custom Data Infrastructure.
--  Advanced Deep Learning (LLM)
--  Scalable cost control & Waste minimization
--  Algorithm Development and Optimization 
--  Advanced Physics Simulation Integrated with GNNs (Research)
+-  Build Data Infrastructure.
+-  Scalable cost control.
+-  Algorithm Development.
+-  Robast system desine with support of `ml`, `open-cv` and `nlp`.
+-  Advanced Physics Simulation integrated with GNNs (Research)
 
 **Adaptation Technology**
 -  Efficient NLP `SLM`
