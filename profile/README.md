@@ -21,7 +21,6 @@ We combine **AI innovation and modern software engineering** to solve complex re
 
 > Bangla Text to Speech (tts) and Speech to Text(stt) recognition system.
 
-
 ## Our Services
 
 -  Build Data Infrastructure.
@@ -31,6 +30,7 @@ We combine **AI innovation and modern software engineering** to solve complex re
 -  Advanced Physics Simulation integrated with GNNs (Research)
 
 **Adaptation Technology**
+
 -  Efficient NLP `SLM`
 -  N-grams `up to 10` and Language `Bangla`
 -  Advance Topic modelling on rule base corpus.
