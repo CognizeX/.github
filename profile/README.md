@@ -35,7 +35,7 @@ We combine **AI innovation and modern software engineering** to solve complex re
 -  Bidirectional Encoding & Generative Pretrained Transformer like: `gpt`, `BERT`, `T5`
 -  Retrieval-Augmented Generations like:`Graph`, `Hybrid`, `Adaptive`, `Naive` & `Corrective`
 
-## Tech Stack
+## Tech Stack we use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=matlab,aws,tensorflow,fastapi,pytorch,anaconda,graphql,nodejs,sklearn,docker,selenium,github,r,githubactions,unreal" />
