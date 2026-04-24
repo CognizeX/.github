@@ -50,18 +50,10 @@ We combine **AI innovation, cybersecurity expertise, and modern software enginee
   <img src="https://skillicons.dev/icons?i=matlab,aws,tensorflow,fastapi,pytorch,anaconda,graphql,nodejs,sklearn,docker,selenium,github,r,githubactions,unreal" />
 </p>
 
-## Organization's Teams
+## Team
 
 - Deep Fusion Cell `Artificial Intelligence`
 - Cyber Fusion Cell `Cyber Security`
-
-### Founder
-
-1. [Sadbin Siddique](https://github.com/sadbinsiddique)
-
-### Member
-1. [Tanjip Surait Mahdin](https://github.com/MaHdIn2020)  
-2. [Rahat Rahman Akas](https://github.com/mdrahatrahmanakas)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Research+%7C+Cybersecurity+%7C+Innovation;Building+Future+Technologies;Deep+Fusion+Cell+Active" />
