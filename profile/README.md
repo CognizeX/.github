@@ -36,20 +36,20 @@ We combine **AI innovation, cybersecurity expertise, and modern software enginee
 -  Advanced Deep Learning (LLM)
 -  Scalable cost control & Waste minimization
 -  Algorithm Development and Optimization 
--  Multi-Agent Models & Graph Neural Networks (Research)
+-  Advanced Physics Simulation Integrated with GNNs (Research)
 
 **Exploring:**
--  Quantum Computing  
--  Drone Programming  
--  Real-Time Physics Simulation
--  Retrieval-Augmented Generations: `Agentic`, `Graph`, `Multimodal`, `Adaptive`, `Naive` & `Corrective`
+-  Efficient NLP (Low-cost `SLM`) 
+-  Generative Pretrained Transformer  
+-  Bidirectional Encoder Representations 
+-  Retrieval-Augmented Generations: `Agentic`, `Graph`, `Hybrid`, `Adaptive`, `Naive` & `Corrective`
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,linux,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=fastapi,pytorch,keras,aws,nodejs,docker,scikit-learn,github " />
 </p>
 
 ---
