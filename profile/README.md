@@ -56,5 +56,5 @@ We combine **AI innovation, cybersecurity expertise, and modern software enginee
 - Cyber Fusion Cell `Cyber Security`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Research+%7C+Cybersecurity+%7C+Innovation;Building+Future+Technologies;Deep+Fusion+Cell+Active" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+Future+Technologies;For+Research+contact+with+@sadbinsiddique" />
 </p>
