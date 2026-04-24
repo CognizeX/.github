@@ -15,11 +15,9 @@
 
 We combine **AI innovation and modern software engineering** to solve complex real-world problems.
 
-## Research Domain & Projects
+## AI/DL Domain
 
-> `Pytorch Geomatry`, `Pysimverse`, `NLTK`/`BNLP` & `Selenium`.
-
-> Bangla Text to Speech (tts) and Speech to Text(stt) recognition system.
+> `Pytorch Geomatry`, `Pysimverse`, `NLTK`/`BNLP` & `Selenium`, `TTS`, `STT`.
 
 ## Our Services
 
@@ -31,11 +29,11 @@ We combine **AI innovation and modern software engineering** to solve complex re
 
 **Adaptation Technology**
 
--  Efficient NLP `SLM`
--  N-grams `up to 10` and Language `Bangla`
+-  Efficient NLP Like: `SLM` models
+-  N-grams up to `ten` and Language `Bangla`
 -  Advance Topic modelling on rule base corpus.
--  Bidirectional Encoding & Generative Pretrained Transformer `gpt`, `BERT`, `T5`
--  Retrieval-Augmented Generations `Graph`, `Hybrid`, `Adaptive`, `Naive` & `Corrective`
+-  Bidirectional Encoding & Generative Pretrained Transformer like: `gpt`, `BERT`, `T5`
+-  Retrieval-Augmented Generations like:`Graph`, `Hybrid`, `Adaptive`, `Naive` & `Corrective`
 
 ## Tech Stack
 
