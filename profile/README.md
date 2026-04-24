@@ -28,21 +28,21 @@ We combine **AI innovation, cybersecurity expertise, and modern software enginee
 
 ---
 
-## Deep Fusion Cell
+## What we provide ?
 
-> Advanced AI Research Division
-
--  Machine Learning & Deep Learning  
--  NLP  
--  Computer Vision  
--  Graph Neural Networks  
--  Data Science  
+-  Scalable cost control & Waste minimization
+-  Algorithm Development and Optimization
+-  Build Custom Data Infrastructure.
+-  Advanced Deep Learning (LLM)
+-  Scalable cost control & Waste minimization
+-  Algorithm Development and Optimization 
+-  Multi-Agent Models & Graph Neural Networks (Research)
 
 **Exploring:**
 -  Quantum Computing  
 -  Drone Programming  
-- Real-Time Physics Simulation  
-- Advanced Algorithms Desgine  
+-  Real-Time Physics Simulation
+-  Retrieval-Augmented Generations: `Agentic`, `Graph`, `Multimodal`, `Adaptive`, `Naive` & `Corrective`
 
 ---
 
@@ -50,14 +50,6 @@ We combine **AI innovation, cybersecurity expertise, and modern software enginee
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,linux,docker,git,github" />
-</p>
-
----
-
-## Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CognizeX/CognizeX/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
