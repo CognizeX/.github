@@ -1,21 +1,60 @@
-MIT License
+CognizeX International Proprietary License v2.0
+Copyright © 2026 CognizeX. All rights reserved.
 
-Copyright (c) 2026 CognizeX
+1. Ownership and Intellectual Property
+This software, including but not limited to its source code, compiled binaries, models, algorithms, architecture, design, documentation, and associated materials (collectively, the “Software”), is the exclusive property of CognizeX. The Software is protected by the copyright laws of the People’s Republic of Bangladesh, international copyright treaties (including the Berne Convention and the Universal Copyright Convention), and other international intellectual property laws and regulations.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Grant of Rights
+Unless explicitly provided under a separate, fully executed written agreement, no rights or licenses are granted to any individual, entity, or organization to use, copy, modify, distribute, sublicense, or otherwise exploit the Software, in whole or in part.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. Strict Restrictions
+Without limitation, unless prior express written consent is obtained from CognizeX, the following actions are strictly prohibited globally:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Reproduction & Distribution: Copying, mirroring, redistributing, or publishing the Software.
+
+Reverse Engineering: Decompiling, reverse engineering, disassembling, or attempting to derive the source code or underlying architecture of the Software.
+
+Derivative Works: Modifying, translating, or creating derivative works based upon the Software.
+
+Unauthorized Use: Utilizing the Software for any commercial, academic, or personal purposes.
+
+AI & Machine Learning: Using the Software, its outputs, or its internal workflows for the purpose of training, fine-tuning, or developing machine learning models or competing systems.
+
+4. Commercial and Authorized Licensing
+Any utilization of the Software—whether commercial, non-commercial, or academic—requires a separate, formal License Agreement fully executed by an authorized representative of CognizeX. Unauthorized possession or use constitutes a direct infringement of intellectual property rights and a material breach of this License.
+
+5. Export Control and International Compliance
+The Software may be subject to export control laws and regulations. By accessing or requesting the Software, you represent and warrant that you are not located in, under the control of, or a national or resident of any country subject to international embargoes, and that you will comply with all applicable local and international export and import laws.
+
+6. Enforcement and Remedies
+CognizeX reserves the absolute right to enforce its intellectual property rights globally to the fullest extent permitted by law. Enforcement actions may include, but are not limited to:
+
+Issuance of international takedown notices (e.g., DMCA, WIPO-related notices, or local equivalents).
+
+Seeking immediate injunctive relief to prevent ongoing unauthorized use.
+
+Pursuing legal claims for statutory damages, actual damages, lost profits, and attorneys' fees.
+
+7. No Implied Rights
+Access to or possession of the Software does not convey any rights, whether express, implied, or by estoppel, to the Intellectual Property of CognizeX, except as explicitly set forth in a valid written agreement.
+
+8. Disclaimer of Warranty
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE INTERNATIONAL LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. COGNIZEX SPECIFICALLY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+9. Limitation of Liability
+IN NO EVENT SHALL COGNIZEX, ITS FOUNDERS, DIRECTORS, OR EMPLOYEES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+10. Severability and Entire Agreement
+If any provision of this License is found to be invalid, illegal, or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect. This License constitutes the entire understanding between the parties regarding the unauthorized access or use of the Software.
+
+11. Governing Law, Jurisdiction, and Dispute Resolution
+This License shall be governed by and construed in accordance with the laws of the People’s Republic of Bangladesh, without regard to its conflict of law principles.
+
+CISG Exclusion: The application of the United Nations Convention on Contracts for the International Sale of Goods (CISG) is expressly excluded.
+
+Jurisdiction: Any disputes arising out of or in connection with this License or the Software shall be subject to the exclusive jurisdiction of the competent courts located in Dhaka, Bangladesh. CognizeX reserves the right to seek injunctive relief in any jurisdiction worldwide to protect its intellectual property.
+
+12. Contact Information
+For commercial licensing, permissions, legal inquiries, or to report a violation, please contact CognizeX legally authorized representatives at:
+
+Email: sadbinsiddique@hotmail.com
