@@ -42,9 +42,7 @@ We combine **AI innovation, cybersecurity expertise, and modern software enginee
 -  Efficient NLP (Low-cost `SLM`) 
 -  Generative Pretrained Transformer  
 -  Bidirectional Encoder Representations 
--  Retrieval-Augmented Generations: `Agentic`, `Graph`, `Hybrid`, `Adaptive`, `Naive` & `Corrective`
-
----
+-  Retrieval-Augmented Generations **(RAG)**: `Agentic`, `Graph`, `Hybrid`, `Adaptive`, `Naive` & `Corrective`
 
 ## Tech Stack
 
@@ -52,23 +50,19 @@ We combine **AI innovation, cybersecurity expertise, and modern software enginee
   <img src="https://skillicons.dev/icons?i=matlab,aws,tensorflow,fastapi,pytorch,anaconda,graphql,nodejs,sklearn,docker,selenium,github,r,githubactions,unreal" />
 </p>
 
----
-
 ## Organization's Teams
+
 - Deep Fusion Cell `Artificial Intelligence`
 - Cyber Fusion Cell `Cyber Security`
 
 ### Founder
-- [Sadbin Siddique](https://github.com/sadbinsiddique)
+
+1. [Sadbin Siddique](https://github.com/sadbinsiddique)
 
 ### Member
-- [Tanjip Surait Mahdin](https://github.com/MaHdIn2020)  
-- [Rahat Rahman Akas](https://github.com/mdrahatrahmanakas)
-
----
+1. [Tanjip Surait Mahdin](https://github.com/MaHdIn2020)  
+2. [Rahat Rahman Akas](https://github.com/mdrahatrahmanakas)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Research+%7C+Cybersecurity+%7C+Innovation;Building+Future+Technologies;Deep+Fusion+Cell+Active" />
 </p>
-
----
