@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=CognizeX&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -14,7 +13,7 @@
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 </p>
 
-## Visitors
+## Live Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CognizeX&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -22,13 +21,11 @@
 
 ## About Us
 
-**CognizeX** is a research-driven technology organization focused on building **intelligent, secure, and scalable systems**.
+**CognizeX** is a research-driven technology organization focused on building **intelligent and scalable systems**.
 
-We combine **AI innovation, cybersecurity expertise, and modern software engineering** to solve complex real-world problems.
+We combine **AI innovation and modern software engineering** to solve complex real-world problems.
 
----
-
-## What we provide ?
+## Our Services
 
 -  Scalable cost control & Waste minimization
 -  Algorithm Development and Optimization
