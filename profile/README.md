@@ -49,7 +49,7 @@ We combine **AI innovation, cybersecurity expertise, and modern software enginee
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,pytorch,keras,aws,nodejs,docker,scikit-learn,github " />
+  <img src="https://skillicons.dev/icons?i=fastapi,pytorch,bash,aws,nodejs,docker,ubuntu,github " />
 </p>
 
 ---
