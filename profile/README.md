@@ -25,11 +25,12 @@ We combine **AI innovation and modern software engineering** to solve complex re
 -  Algorithm Development and Optimization 
 -  Advanced Physics Simulation Integrated with GNNs (Research)
 
-**Exploring:**
--  Efficient NLP (Low-cost `SLM`) 
--  Generative Pretrained Transformer  
--  Bidirectional Encoder Representations 
--  Retrieval-Augmented Generations **(RAG)**: `Agentic`, `Graph`, `Hybrid`, `Adaptive`, `Naive` & `Corrective`
+**Adaptation Technology**
+-  Efficient NLP `SLM`
+-  N-grams `up to 10` and Language `Bangla`
+-  Advance Topic modelling on rule base corpus.
+-  Bidirectional Encoding & Generative Pretrained Transformer `gpt`, `BERT`, `T5`
+-  Retrieval-Augmented Generations `Graph`, `Hybrid`, `Adaptive`, `Naive` & `Corrective`
 
 ## Tech Stack
 
@@ -37,11 +38,6 @@ We combine **AI innovation and modern software engineering** to solve complex re
   <img src="https://skillicons.dev/icons?i=matlab,aws,tensorflow,fastapi,pytorch,anaconda,graphql,nodejs,sklearn,docker,selenium,github,r,githubactions,unreal" />
 </p>
 
-## Team
-
-- Deep Fusion Cell `Artificial Intelligence`
-- Cyber Fusion Cell `Cyber Security`
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=For+Cyber+Sequraty+contact+with+@mdrahatrahmanakas;Building+Future+Technologies;For+Research+contact+with+@sadbinsiddique" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+Future+Technologies;For+Research+contact+with+@sadbinsiddique" />
 </p>
